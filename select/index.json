@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "スパソゲッティ",
+  "base_artist": "なみぐる",
+  "createdAt": "2026-03-16T09:22:10.076504Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スパソゲッティ (feat. 初音ミク)",
+      "artist": "なみぐる",
+      "has_synced": false,
+      "path": "select/pl_01_スパソゲッティ_(feat._初音ミク)_なみぐる.txt"
+    }
+  ]
+}
